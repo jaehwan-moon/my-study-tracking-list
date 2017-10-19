@@ -1,4 +1,4 @@
-# Coding Interview University
+# My Study Tracking List
 
 This is the forked repository from [coding-interview-university](https://github.com/jwasham/coding-interview-university). It has been modified to be used as a personal study tracking repo. Thanks To [jwasham](https://github.com/jwasham)!!
 
